@@ -107,3 +107,12 @@ header.shadow .logo{
     color: var(--bg-color);
     text-align: center;
 }
+
+.home-title{
+    font-size: 3.5rem;
+}
+
+.home-subtitle{
+    font-size: 1rem;
+    font-weight: 400;
+}
