@@ -90,14 +90,14 @@ header.shadow .logo{
 }
 
 .login:hover{
-    background: hsl(199, 98%, 56%);
+    background: hsl(300,76%,72%);
     transition: .5s;
 }
 
 .home{
     width: 100%;
     min-height: 440px;
-    background: url("images/banner_home.jpg");
+    background: url("images/home_banner.png");
     display: grid;
     justify-content: center;
     align-items: center;
