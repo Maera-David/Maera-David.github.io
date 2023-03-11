@@ -2,6 +2,6 @@
 
 let header = document.querySelector("header");
 
-window.classList.toggle("scroll", () => {
+window.addEventListener("scroll", () => {
     header.classList.toggle("shadow", window.scrollY > 0)
 })
